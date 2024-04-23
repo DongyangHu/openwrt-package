@@ -4,3 +4,6 @@
 [submodule "openwrt-frp"]
 	path = openwrt-frp
 	url = https://github.com/DongyangHu/openwrt-frp
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/DongyangHu/luci-app-argon-config
