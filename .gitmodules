@@ -10,3 +10,6 @@
 [submodule "luci-app-openclash"]
 	path = luci-app-openclash
 	url = https://github.com/DongyangHu/luci-app-openclash
+[submodule "luci-app-frpc"]
+	path = luci-app-frpc
+	url = https://github.com/DongyangHu/luci-app-frpc
