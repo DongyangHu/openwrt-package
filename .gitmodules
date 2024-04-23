@@ -7,3 +7,6 @@
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/DongyangHu/luci-app-argon-config
+[submodule "luci-app-openclash"]
+	path = luci-app-openclash
+	url = https://github.com/DongyangHu/luci-app-openclash
