@@ -1,6 +1,6 @@
 # openwrt-package
 |名称|功能|其他|
-|:--|:--|:--|
+|:----|:--------|:--------|
 |openwrt-frp|dddd||
 |luci-theme-argon|主题||
 |luci-app-argon-config|主题配置||
