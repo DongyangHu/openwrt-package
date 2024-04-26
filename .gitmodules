@@ -7,9 +7,3 @@
 [submodule "luci-app-openclash"]
 	path = luci-app-openclash
 	url = https://github.com/DongyangHu/luci-app-openclash
-[submodule "openwrt-frp"]
-	path = openwrt-frp
-	url = https://github.com/DongyangHu/openwrt-frp
-[submodule "luci-app-frpc"]
-	path = luci-app-frpc
-	url = https://github.com/DongyangHu/luci-app-frpc
