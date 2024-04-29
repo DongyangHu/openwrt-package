@@ -7,3 +7,6 @@
 [submodule "luci-app-openclash"]
 	path = luci-app-openclash
 	url = https://github.com/DongyangHu/luci-app-openclash
+[submodule "luci-app-poweroff"]
+	path = luci-app-poweroff
+	url = https://github.com/DongyangHu/luci-app-poweroff
